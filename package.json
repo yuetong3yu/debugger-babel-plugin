@@ -1,0 +1,8 @@
+{
+  "name": "debugger-babel-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yuetong3yu/debugger-babel-plugin.git",
+  "author": "yuetong3yu <yuetong3yu@gmail.com>",
+  "license": "MIT"
+}

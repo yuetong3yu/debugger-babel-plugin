@@ -5,8 +5,8 @@
   "repository": "https://github.com/yuetong3yu/debugger-babel-plugin.git",
   "author": "yuetong3yu <yuetong3yu@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
-    "babel-plugin-tester": "^10.1.0",
-    "jest": "^27.5.1"
-  }
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {}
 }
